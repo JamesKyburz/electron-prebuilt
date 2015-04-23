@@ -1,1 +1,1 @@
-/Users/maxogden/src/js/electron-prebuilt/dist/Electron.app/Contents/MacOS/Electron
+/Users/jameskyburz/Documents/src/electron-prebuilt/dist/Electron.app/Contents/MacOS/Electron
